@@ -1,0 +1,25 @@
+# Unity生成フォルダ
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# ビルド出力
+/AIga Tsukuru/
+*.zip
+
+# Visual Studio / Rider
+.vs/
+*.csproj
+*.sln
+*.userprefs
+.idea/
+
+# macOS
+.DS_Store
+
+# Unity metaファイルは含める（.meta は必須）
+!/Assets/**/*.meta
